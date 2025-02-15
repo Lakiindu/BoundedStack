@@ -6,7 +6,7 @@ package boundedStack;
 
 /**
  *
- * @author x250
+ * @author Lakindu
  */
 
 import java.util.NoSuchElementException;
